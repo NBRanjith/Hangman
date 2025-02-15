@@ -47,6 +47,3 @@ The Hangman Game is a Python-based text game where the user tries to guess a hid
 5. You can only guess one letter at a time.
 6. If you guess a letter you've already guessed, the game will notify you.
 
-## Example
-
-### Logo
